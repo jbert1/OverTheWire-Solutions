@@ -162,3 +162,5 @@ cython_debug/
 # Repo specific
 bandit/passwords/*.pass
 bandit/passwords/*.key
+natas/passwords/*.pass
+natas/passwords/*.key
